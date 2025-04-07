@@ -1,1 +1,0 @@
-<?php /**PATH E:\invoices\resources\views/index.blade.php ENDPATH**/ ?>
